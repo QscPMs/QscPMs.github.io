@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://QscPMs.github.io/categories/</loc>
+    <loc>https://qscpms.github.io/pmbook/</loc>
+    <lastmod>2021-08-17T16:37:16+08:00</lastmod>
   </url><url>
-    <loc>http://QscPMs.github.io/</loc>
+    <loc>https://qscpms.github.io/categories/</loc>
   </url><url>
-    <loc>http://QscPMs.github.io/tags/</loc>
+    <loc>https://qscpms.github.io/</loc>
+  </url><url>
+    <loc>https://qscpms.github.io/tags/</loc>
   </url>
 </urlset>
